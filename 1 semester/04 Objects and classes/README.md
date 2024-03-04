@@ -21,7 +21,7 @@ n   factorial(n)        factorialL(n)      factorialD(n)
    for the function
    $e^-x$
 
-$e^{-1} = \sum_{n=0}^{\infty} (-1)^k\frac{x^k}{k!} = 1 - \frac{x}{1} + \frac{x^2}{2!} - \frac{x^3}{3!} + \ldots + (-1)
+$e^{-1} = \sum_{k=0}^{\infty} (-1)^k\frac{x^k}{k!} = 1 - \frac{x}{1} + \frac{x^2}{2!} - \frac{x^3}{3!} + \ldots + (-1)
 ^k\frac{x^k}{k!}$
 
 The calculation of the sum stops when the addition to the sum (not the sum itself) becomes less than $10^-6$ by absolute
@@ -70,7 +70,7 @@ n   factorial(n)        factorialL(n)      factorialD(n)
    функції
    $e^-x$
 
-$e^{-1} = \sum_{n=0}^{\infty} (-1)^k\frac{x^k}{k!} = 1 - \frac{x}{1} + \frac{x^2}{2!} - \frac{x^3}{3!} + \ldots + (-1)
+$e^{-1} = \sum_{k=0}^{\infty} (-1)^k\frac{x^k}{k!} = 1 - \frac{x}{1} + \frac{x^2}{2!} - \frac{x^3}{3!} + \ldots + (-1)
 ^k\frac{x^k}{k!}$
 
 Підрахунок суми припиняється, коли добавка до суми (не сама сума) стане по модулю менше $10^-6$.
