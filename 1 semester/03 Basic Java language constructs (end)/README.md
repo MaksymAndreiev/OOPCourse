@@ -47,7 +47,7 @@ just call the appropriate methods.
 Methods in which information is entered use a scanner.
 The variables that store the entered information must be **global** for the methods.
 
-**Task 2) ** Write a program for operations on a one-dimensional array of numbers, which displays a menu on the console,
+**Task 2)** Write a program for operations on a one-dimensional array of numbers, which displays a menu on the console,
 waiting for the user to make a choice. The array is created at program startup. The size of the array is no more than
 10.
 
