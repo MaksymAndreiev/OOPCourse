@@ -1,4 +1,4 @@
-# Practical exercise 6.
+# Practical exercise 6. I/O streams
 
 1. Analyze the examples from Practical Exercise 6 (P6sem3.doc). Run the examples, explain the output to the console.
    Example 8 from Practical lesson 6 should be converted to unpacking the movies.zip archive.
@@ -45,7 +45,7 @@
    You can split a string into substrings using the `split(",")` method of the `String` class or the `Scanner` object.
    Note: correctly handle the situation with the comma in the name.
 
-# Практичне заняття 6.
+# Практичне заняття 6. Потоки введення-виведення
 
 1. Розібрати приклади практичного заняття 6 (П6сем3.doc). Запустити приклади, пояснити вивід на консоль.
    Приклад 8 із практичного заняття 6 переробити на розпаковку архіву movies.zip.
