@@ -4,7 +4,7 @@
 As you know, a glass has two main characteristics: mass (double mass) and volume (double volume) of the liquid it holds. You have started to compile a catalog of all the glasses in your cafeteria. Develop a class for this task.
 
 The class will be called Stakan, and it will support the following operations (public methods):
-
+````
 Stakan(); // default constructor
 
 Stakan(double m, double v); // constructor with parameters
@@ -18,13 +18,13 @@ boolean setMass(double m); // returns true if successful
 boolean setVolume(double v);
 
 String toString();
-
+````
 Add another field to the Stakan class: double content - the volume of liquid poured into the glass. Create methods
-
+````
 double getContent()
 
 boolean setContent(double с).
-
+````
 Initially, content = 0.
 
 Technical details.
@@ -51,7 +51,7 @@ Test all methods in the method.
 Як відомо,  у стакана є дві основні характеристики: маса (double mass) та об’єм (double volume) рідини, що вміщується. Ви зайнялися складанням каталогу всіх стаканів в вашому буфеті. Розробіть під цю задачу клас.
 
 Клас буде називатися Stakan, і він буде підтримувати наступні операції (public-методи):
-
+````
 Stakan();                   // конструктор за замовчуванням
 
 Stakan(double m, double v); // конструктор з параметрами
@@ -65,13 +65,13 @@ boolean setMass(double m); //повертає true у випадку успіх�
 boolean setVolume(double v);
 
 String toString();
-
+````
 Додати в клас Stakan ще одно поле: double content  - об’єм налитої в стакан рідини. Створити  методи
-
+````
 double getContent()
 
 boolean setContent(double с).
-
+````
 Спочатку  content = 0.
 
 Технічні деталі.
