@@ -15,6 +15,8 @@ Deal with the `LayoutManager`'s and fill the window with components:
 To arrange these 5 groups, you can use the `BorderLayout` layout manager, in which the container is divided into 5
 parts.
 
+![image](https://github.com/MaksymAndreiev/OOPCourse/assets/29687267/22178b54-851d-4b4c-936f-408b42cea191)
+
 Buttons, RadioButtons, etc. are placed on separate panels with their own layout managers (or without them).
 
 # Лабораторна робота 3. SWING. GUI. Обробка подій
@@ -33,5 +35,7 @@ Buttons, RadioButtons, etc. are placed on separate panels with their own layout 
 
 Для розміщення цих 5 груп можна використати менеджер компоновки `BorderLayout`, при якому контейнер розділений на 5
 частин.
+
+![image](https://github.com/MaksymAndreiev/OOPCourse/assets/29687267/22178b54-851d-4b4c-936f-408b42cea191)
 
 Кнопки, `RadioButton`'и і т.д. розміщуються на окремих панелях зі своїми менеджерами компоновки (чи без них).
